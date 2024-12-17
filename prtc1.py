@@ -125,3 +125,4 @@ print(smartphone1 == computer)  # True
 
 
 
+
