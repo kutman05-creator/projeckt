@@ -32,5 +32,8 @@ list1 = [Square(5),Square(17),Rectangle(8,6,),Rectangle(9,3),Rectangle(10,13)]
 for i in list1:
     i.info()
 
+
+# jsj
+
 #
 
