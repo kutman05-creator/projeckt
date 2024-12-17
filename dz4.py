@@ -98,7 +98,7 @@ class Magic(Hero):
             if round_number <= 4:
                 hero.damage += 3
             f"  magic увеличил атаку : {hero}"
-
+# jsj
 
 class Hacker(Hero):
     def __init__(self,name,health,damage):
